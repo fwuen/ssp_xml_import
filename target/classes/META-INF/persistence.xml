@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" version="2.0">
+
+    <persistence-unit name="ProductionOrderPersistenceUnitManual">
+        <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+        <class>model.Product</class>
+        <class>model.ProductType</class>
+        <class>model.Production</class>
+        <class>model.ProductionOrder</class>
+        <class>model.CustomerOrder</class>
+        <class>model.ProductionOrderItems</class>
+        <properties>
+            <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />
+            <property name="javax.persistence.jdbc.user" value="root"/>
+            <property name="javax.persistence.jdbc.password" value="SSP2018" />
+            <property name="eclipselink.jdbc.url" value="jdbc:mysql://localhost:3306/production_order?useSSL=false" />
+            <property name="javax.persistence.schema-generation.database.action" value="drop-and-create"/>
+        </properties>
+    </persistence-unit>
+</persistence>

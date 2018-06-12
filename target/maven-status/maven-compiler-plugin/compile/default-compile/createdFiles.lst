@@ -1,0 +1,16 @@
+XmlImporter.class
+model\ProductionOrder.class
+model\ProductionOrderItems.class
+model\Production.class
+model\ProductTypesTargetDate.class
+Provider\ProductProvider.class
+model\Order.class
+Main.class
+Provider\CustomerOrderProvider.class
+model\Product.class
+model\ProductType.class
+model\CustomerOrder.class
+Provider\ProductionOrderProvider.class
+Provider\ProductTypeProvider.class
+model\ProductionOrderItemsPK.class
+Provider\ProductionProvider.class
