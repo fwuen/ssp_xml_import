@@ -6,7 +6,44 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dfab43d-720d-4afa-b787-d0724716621f" name="Default" comment="" />
+    <list default="true" id="7dfab43d-720d-4afa-b787-d0724716621f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/59c32522-28da-4167-b97d-9ac396277dbd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/59c32522-28da-4167-b97d-9ac396277dbd.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/xml_import_jar/xml_import.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/xml_import_jar/xml_import.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Provider/CustomerOrderProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/provider/CustomerOrderProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Provider/ProductProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/provider/ProductProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Provider/ProductTypeProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/provider/ProductTypeProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Provider/ProductionOrderProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/provider/ProductionOrderProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Provider/ProductionProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/provider/ProductionProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/XmlImporter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/XmlImporter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/ProductionOrderItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/ProductionOrderItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/xml/prod_type.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xml/prod_type.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/xml/product.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xml/product.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/xml/production.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xml/production.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/xml/production_order.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xml/production_order.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Provider/CustomerOrderProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Provider/CustomerOrderProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Provider/ProductProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Provider/ProductProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Provider/ProductTypeProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Provider/ProductTypeProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Provider/ProductionOrderProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Provider/ProductionOrderProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Provider/ProductionProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Provider/ProductionProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/XmlImporter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/XmlImporter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/ProductionOrderItems.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/ProductionOrderItems.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xml/prod_type.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/xml/prod_type.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xml/product.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/xml/product.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xml/production.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/xml/production.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xml/production_order.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/xml/production_order.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xml_import-1.0-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/xml_import-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xml_import-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/xml_import-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/prod_type.tmp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml/prod_type.tmp.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,65 +69,34 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="production_order@localhost" type="feb32156:DbDataSourceImpl" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="production_order@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="production_order@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="production_order: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="production_order@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="production_order: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="XmlImporter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/XmlImporter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#923#924#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProductionOrder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/model/ProductionOrder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Production.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/model/Production.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="8" column="69" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="persistence.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="persistence.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+            <state relative-caret-position="300">
+              <caret line="15" column="75" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -107,7 +113,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>table_gene</find>
+      <find>catalog</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -118,15 +128,16 @@
         <option value="$PROJECT_DIR$/src/main/java/Provider/ProductionOrderProvider.java" />
         <option value="$PROJECT_DIR$/src/main/java/Provider/ProductProvider.java" />
         <option value="$PROJECT_DIR$/src/main/java/Provider/ProductTypeProvider.java" />
-        <option value="$PROJECT_DIR$/src/main/java/model/ProductionOrderItems.java" />
         <option value="$PROJECT_DIR$/src/main/java/model/Product.java" />
         <option value="$PROJECT_DIR$/src/main/java/XmlImporter.java" />
         <option value="$PROJECT_DIR$/src/main/resources/xml/production.xml" />
         <option value="$PROJECT_DIR$/src/main/java/model/Production.java" />
         <option value="$PROJECT_DIR$/src/main/java/model/ProductionOrder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/ProductionOrderItems.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/Group.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -160,9 +171,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="width" value="1842" />
-    <option name="height" value="1056" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="2904" />
+    <option name="height" value="1584" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -170,7 +182,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,7 +213,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="xml_import" type="b2602c69:ProjectViewProjectNode" />
@@ -210,7 +221,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Provider" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="xml_import" type="b2602c69:ProjectViewProjectNode" />
@@ -246,6 +257,7 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,15 +272,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Felix\Desktop\xml_import\src\main\resources\xml" />
-      <recent name="C:\Users\Felix\Desktop\xml_import\src\main\java\Provider" />
-      <recent name="C:\Users\Felix\Desktop\xml_import\src\main\java\model" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Felix\Desktop\xml_import\src\main\resources" />
       <recent name="C:\Users\Felix\Desktop\xml_import\src\main" />
       <recent name="C:\Users\Felix\Desktop\xml_import\src\main\java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Felix\Desktop\xml_import\src\main\java\model" />
+      <recent name="C:\Users\Felix\Desktop\xml_import\src\main\resources\xml" />
+      <recent name="C:\Users\Felix\Desktop\xml_import\src\main\java\Provider" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -370,44 +382,57 @@
       <workItem from="1528706907577" duration="600000" />
       <workItem from="1528742689890" duration="1409000" />
       <workItem from="1528792447796" duration="6453000" />
+      <workItem from="1528886990893" duration="21000" />
+      <workItem from="1528906276372" duration="627000" />
+      <workItem from="1529007034766" duration="1821000" />
+      <workItem from="1529070921710" duration="2243000" />
+      <workItem from="1529135617160" duration="1196000" />
+      <workItem from="1529311160011" duration="1053000" />
+      <workItem from="1529397327160" duration="617000" />
+      <workItem from="1530004116703" duration="3899000" />
+      <workItem from="1530104061394" duration="643000" />
+      <workItem from="1530175096249" duration="605000" />
+      <workItem from="1530178640363" duration="3206000" />
+      <workItem from="1530350541066" duration="682000" />
+      <workItem from="1530434615211" duration="613000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21899000" />
+    <option name="totallyTimeSpent" value="39125000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1839" height="1191" extended-state="6" />
+    <frame x="-7" y="-7" width="1839" height="1191" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="right" id="Maven Projects" order="3" visible="true" weight="0.32996064" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" weight="0.19673975" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32985783" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3270142" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.34794828" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3270142" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32985783" />
-      <window_info id="Persistence" order="2" sideWeight="0.31830987" side_tool="true" visible="true" weight="0.2203485" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.68169016" visible="true" weight="0.2203485" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Persistence" order="2" sideWeight="0.33175355" side_tool="true" visible="true" weight="0.2861158" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.66824645" visible="true" weight="0.2861158" />
       <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info anchor="right" id="Database" order="3" weight="0.19673975" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24957842" />
+      <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32985783" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Database Console" order="8" weight="0.3278867" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.24834123" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -425,25 +450,25 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
-          <line>34</line>
+          <line>33</line>
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
-          <line>43</line>
+          <line>42</line>
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
-          <line>55</line>
+          <line>54</line>
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
-          <line>29</line>
+          <line>28</line>
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
@@ -451,7 +476,18 @@
       <option name="time" value="13" />
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="75" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="860">
@@ -558,34 +594,24 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Provider/DatabaseManager.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Provider/ProductionProvider.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/provider/ProductionProvider.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-133">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Provider/ProductionOrderProvider.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/provider/ProductionOrderProvider.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="467">
           <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Provider/CustomerOrderProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Provider/ProductTypeProvider.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/provider/ProductTypeProvider.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -596,23 +622,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/ProductionOrderItems.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Provider/ProductProvider.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/provider/ProductProvider.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/ProductionOrderItemsPK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
@@ -624,6 +636,141 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jdom/jdom2/2.0.6/jdom2-2.0.6.jar!/org/jdom2/Element.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="253" selection-start-line="253" selection-end-line="253" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/xml/production.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-86917">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/sequence">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/sequence">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/sequence">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/sequence">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/sequence">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/sequence">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/sequence">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/sequence">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/sequence">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/provider/CustomerOrderProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Production.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="69" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/ProductionOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/ProductionOrderItemsPK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Group.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/ProductionOrderItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/XmlImporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/product">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -631,10 +778,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jdom/jdom2/2.0.6/jdom2-2.0.6.jar!/org/jdom2/Element.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="253" selection-start-line="253" selection-end-line="253" />
+    <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/customer_order">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/production">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/production_order_items">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -652,140 +813,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/xml/production.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-86917">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/production">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/customer_order">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/sequence">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/production_order_items">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/sequence">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/sequence">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/sequence">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/sequence">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/sequence">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/sequence">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/sequence">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://59c32522-28da-4167-b97d-9ac396277dbd/schema/production_order/table/sequence">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/ProductionOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/Production.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="8" column="69" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/XmlImporter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#923#924#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        <state relative-caret-position="300">
+          <caret line="15" column="75" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
         </state>
       </provider>
     </entry>

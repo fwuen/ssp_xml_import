@@ -1,6 +1,6 @@
-import Provider.ProductProvider;
-import Provider.ProductTypeProvider;
-import Provider.ProductionOrderProvider;
+import provider.ProductProvider;
+import provider.ProductTypeProvider;
+import provider.ProductionOrderProvider;
 import model.*;
 import org.jdom2.Element;
 import org.jdom2.input.DOMBuilder;

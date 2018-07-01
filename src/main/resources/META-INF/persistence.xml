@@ -9,6 +9,7 @@
         <class>model.ProductionOrder</class>
         <class>model.CustomerOrder</class>
         <class>model.ProductionOrderItems</class>
+        <class>model.ProductionOrderItems</class>
         <properties>
             <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />
             <property name="javax.persistence.jdbc.user" value="root"/>

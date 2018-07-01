@@ -1,13 +1,12 @@
-import Provider.ProductProvider;
-import Provider.ProductTypeProvider;
-import Provider.ProductionOrderProvider;
-import Provider.ProductionProvider;
+import provider.ProductProvider;
+import provider.ProductTypeProvider;
+import provider.ProductionOrderProvider;
+import provider.ProductionProvider;
 import model.*;
 import org.apache.commons.io.FileUtils;
 
 import java.io.File;
 import java.io.InputStream;
-import java.net.URISyntaxException;
 import java.util.List;
 
 public class Main {
@@ -62,6 +61,4 @@ public class Main {
             productionProvider.writeProduction(production);
         }
     }
-
-    //src\main\resources\
 }
